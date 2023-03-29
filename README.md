@@ -1,21 +1,96 @@
 # Assignment-3
-Conversion
 
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>Task 1</h2>
+
 
 <h0><p>CONVERT TO RGB FORMAT </p></h0>
-<p>1.#61fa34 - rgb(97,250,52)</p>
+<p>1. #61fa34 - rgb(97 ,250 ,52)</p>
+<p>61 = 6*16^1 + 1*16^0 => 96+1=> 97</p>
+<p>fa = f*16^1 + a*16^0 => 15*16 + 10*1 => 250</p>
+<p>34 = 3*16^1 + 4*16^0 => 48 + 4 => 52</p>
 
-<div style="display: block; padding: 9.5px; margin: 0 0 10px; font-size: 15px; line-height: 1.42857143; color: #333; word-break: break-all; word-wrap: break-word; background-color: #f5f5f5; border: 1px solid #ccc; border-radius: 4px;">
+<br>
 
-some text here
+<p>2. #34c6ab - rgb(52 ,198 , 171)</p>
+<p>34 = 3*16^1 + 4*16^0 => 48 + 4 => 52</p>
+<p>c6 = c*16^1 + 6*16^0 => 12*16 + 6 => 198</p>
+<p>ab = a*16^1 + b*16^1 => 10*16 + 11 =>171</p>
 
-</div>
+<br>
 
+<p>3. #b237fe - rgb(178 ,55 , 254)</p>
+<p>b2 = b*16^1 + 2*16^0 => 178</p>
+<p>37 = 3*16^1 + 7*16^0 => 55</p>
+<p>fe = f*16^1 + e*16^0 => 254</p>
+
+<br>
+
+<p>4. #571ab4 - rgb(87 ,26 , 180)</p>
+<p>57 = 5*16^1 + 7*16^0 => 87</p>
+<p>1a = 1*16^1 + a*16^0 => 26</p>
+<p>b4 = b*16^1 + 4*16^0 => 180</p>
+
+<br>
+
+<p>5. #ab34c6 - rgb(171, 52, 198)</p>
+<p>ab = a*16^1 + b*16^0 => 171</p>
+<p>34 = 3*16^1 + 4*16^0 => 52</p>
+<P>c6 = c*16^1 + 6*16^0 => 198</p>
+
+<br>
+
+<p>6. #feb237 - rgb(254 ,178 , 55)</p>
+<p>fe = f*16^1 + e*16^0 => 254</p>
+<p>b2 = b*16^1 + 2*16^0 => 178</p>
+<p>37 = 3*16^1 + 7*16^0 => 55</p>
+
+<br>
+
+<p>7. #1ab457 - rgb(26 ,180 , 87)</p>
+<p>1a = 1*16^1 + a*16^0 => 26</p>
+<p>b4 = b*16^1 + 4*16^0 => 100</p>
+<p>57 = 5*16^1 + 7*16^0 => 87</p>
+
+<br>
+
+<p>8. #ab4715 - rgb(171 ,71 , 21)</p>
+<p>ab = a*16^1 + b*16^0 => 171</p>
+<p>47 = 4*16^1 + 7*16^0 => 71</p>
+<p>15 = 1*16^1 + 5*16^0 => 21</p>
+
+<br>
+
+<h0><p>CONVERT TO HEX FORMAT </p></h0>
+<p>1. rgb(213, 12, 112) = #D5OC70</p>
+<p>2. rgb(22 , 126 , 52) = #167E34</p>
+<p>3. rgb(213 , 214, 41) = #D5D629</p>
+<p>4. rgb(113 , 22, 113) = #711671</p>
+<p>5. rgb(126 , 112, 172) = #7E70AC</p>
+<p>6. rgb(142 , 24, 241) = #8E1879</p>
+<p>7. rgb(123 , 32, 121) = #7B2079</p>
+<p>8. rgba(127,123,224,.4) = #7f7be066</p>
+
+<br>
+
+<h0><p>LIST OF 4 CSS PROPERTIES THAT NEED COLOR VALUES. </p></h0>
+<p>1. Text color</p>
+<p>2. Border color</p>
+<p>3. Text decoration color</p>
+<p>4. Background color</p>
+
+
+
+
+ 
+ 
+      
+		
+	
+ 
+	
 
 </body>
 </html>
